@@ -1,4 +1,4 @@
-# kaggle-titanic
+# kaggle-titanic  
 kaggle titanic starter competition
 This repository contains a jupyter notebook file with my analysis and process for the titanic kaggle competition
 
